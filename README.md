@@ -1,7 +1,7 @@
-<img src="https://github.com/shah-zaib-ali/shah-zaib-ali/blob/main/banner.png" width="100%" />
+<img src="https://github.com/shah-zaib-ali/shah-zaib-ali/blob/main/github-header-banner.png" width="100%" />
 
 # 💫 About Me:
-MY INTRODUCTION? I WANT TO BE THE ZLATAN IN WORLD OF COMPUTER SCIENCE
+I’m Shahzaib Ali, a passionate Computer Science student and developer. I love building efficient, clean, and scalable solutions, exploring new technologies, and continuously leveling up my skills in programming and software development.
 
 
 ## 🌐 Socials:
