@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/shah-zaib-ali/YOUR-REPO-NAME/main/banner.png
+
 # 💫 About Me:
 MY INTRODUCTION? I WANT TO BE THE ZLATAN IN WORLD OF COMPUTER SCIENCE
 
