@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Shahzaib Ali
+
 
 **`Computer Science Student · Full-Stack Developer · ML Enthusiast`**
 
