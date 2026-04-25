@@ -24,7 +24,7 @@ exploring new technologies and continuously leveling up across the full stack.
 - 🌱 Deepening expertise in **AI/ML**, **cloud infrastructure**, and **system design**
 - 💡 Strong believer in writing clean, maintainable, and well-documented code
 - 🤝 Open to collaboration on impactful open-source and research projects
-- ⚡ Fun fact: I debug faster with coffee ☕
+- ⚡ Fun fact: I debug faster with cold coffee 
 
 ---
 
