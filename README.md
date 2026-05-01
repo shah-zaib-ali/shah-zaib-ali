@@ -12,21 +12,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahzaibaly">
+  <a href="https://www.linkedin.com/in/shahzaibaly" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shahzaib_Ali-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/shah-zaib-ali">
-    <img src="https://img.shields.io/badge/GitHub-ShahzaibAli-B91C1C?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://leetcode.com/u/shahzaibofficial1108/">
-    <img src="https://img.shields.io/badge/LeetCode-Shahzaib--Ali-B91C1C?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>&nbsp;
-  <!-- <a href="https://perfolio-khaki.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-B91C1C?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>&nbsp; -->
+  </a>
+  <a href="https://github.com/shah-zaib-ali" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-shah--zaib--ali-B91C1C?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/shahzaibofficial1108/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Shahzaib_Ali-B91C1C?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
   <a href="mailto:shahzaibofficial1108@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
+  </a>
+</p>
  
 </p>
 
@@ -52,8 +50,8 @@ I believe in continuous learning, clean architecture, and shipping things that a
 | 🔥 **Primary Focus** | Software Development · AI · Systems Design |
 | 🌐 **Stack** | Python · C++ · JS · React · Node · Flutter · Django |
 | 🧩 **Approach** | Efficient · Scalable · Clean Architecture |
-| 🌍 **Portfolio** | [personalized-portfolio-khaki.vercel.app](https://personalized-portfolio-khaki.vercel.app/) |
-| 📫 **Contact** | mrasfandahmed@gmail.com |
+| 🌍 **Portfolio** |  |
+| 📫 **Contact** | shahzaibofficial1108@gmail.com |
 
 ---
 
