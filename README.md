@@ -123,34 +123,6 @@ I believe in continuous learning, clean architecture, and shipping things that a
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
 
 
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/shah-zaib-ali/FiJob">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsfandAhmad&repo=SteamGamesRecommender&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000&border_color=7B0000" alt="FiJob"/>
-  </a>
-  <a href="https://github.com/shah-zaib-ali/NVIDIA-Nemotron-Model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AsfandAhmad&repo=Learning_Management_system&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000&border_color=7B0000" alt="NVIDIA Nemotron Model"/>
-  </a>
-</p>
-
----
-
-## 📈 Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shah-zaib-ali&bg_color=0a0000&color=EF4444&line=B91C1C&point=FF6B00&area=true&area_color=7B0000&hide_border=false&border_color=B91C1C" alt="Activity Graph"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,50:B91C1C,100:EF4444&height=3&section=header"/>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,50:B91C1C,100:EF4444&height=3&section=header"/>
-
-
-
 ## 🤝 Open To
 
 - 🔥 **Software engineering internships** and junior developer roles
