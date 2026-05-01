@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B0000,35:B91C1C,70:EF4444,100:FF6B00&height=220&section=header&text=Shahzaib%20Ali&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Software%20Development%20%7C%20AI%20%7C%20Systems%20Design&descSize=20&descAlignY=56&descAlign=50" />
 
-<h1 align="center">Shahzaib Ali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/></h1>
 
 <p align="center">
   <strong>CS Student @ FAST-NUCES &nbsp;·&nbsp; Passionate Builder</strong><br/>
