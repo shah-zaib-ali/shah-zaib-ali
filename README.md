@@ -65,11 +65,6 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
 
-## 🛠️ Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,express,mongodb,postgresql,sqlite,flutter,django,html,css,tailwind,git,linux,figma,azure" />
-</p>
 
 ---
 
