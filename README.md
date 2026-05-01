@@ -12,16 +12,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shahzaibaly" target="_blank">
+  <a href="https://www.linkedin.com/in/shahzaibaly" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Shahzaib_Ali-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/shah-zaib-ali" target="_blank">
+
+  <a href="https://github.com/shah-zaib-ali" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-shah--zaib--ali-B91C1C?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/shahzaibofficial1108/" target="_blank">
+
+  <a href="https://leetcode.com/u/shahzaibofficial1108/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LeetCode-Shahzaib_Ali-B91C1C?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="mailto:shahzaibofficial1108@gmail.com">
+
+  <a href="mailto:shahzaibofficial1108@gmail.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-Contact-B91C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -30,7 +33,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
 
-## 🔥 About Me
+##  About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
 
@@ -42,7 +45,7 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
 
-## ✨ Profile Snapshot
+##  Profile Snapshot
 
 | | |
 |:---|:---|
@@ -55,7 +58,7 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Building **efficient and scalable** full-stack applications
 - Exploring **AI and intelligent systems** integrations
@@ -101,19 +104,19 @@ I believe in continuous learning, clean architecture, and shipping things that a
 ## 🌐 Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/asfand-ahmed-91b210278" target="_blank">
+  <a href="https://www.linkedin.com/in/shahzaibaly" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1a0000?style=for-the-badge&logo=linkedin&logoColor=EF4444"/>
   </a>
-  <a href="https://github.com/AsfandAhmad">
+  <a href="https://github.com/shah-zaib-ali">
     <img src="https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=EF4444"/>
   </a>
-  <a href="https://leetcode.com/u/Asfand-Ahmed/">
+  <a href="https://leetcode.com/u/shahzaibofficial1108/">
     <img src="https://img.shields.io/badge/LeetCode-1a0000?style=for-the-badge&logo=leetcode&logoColor=EF4444"/>
   </a>
-  <a href="https://personalized-portfolio-khaki.vercel.app/">
+  <a href="">
     <img src="https://img.shields.io/badge/Portfolio-1a0000?style=for-the-badge&logo=vercel&logoColor=EF4444"/>
   </a>
-  <a href="mailto:mrasfandahmed@gmail.com">
+  <a href="mailto:shahzaibofficial1108@gmail.com">
     <img src="https://img.shields.io/badge/Email-1a0000?style=for-the-badge&logo=gmail&logoColor=EF4444"/>
   </a>
 </p>
@@ -123,13 +126,13 @@ I believe in continuous learning, clean architecture, and shipping things that a
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsfandAhmad&show_icons=true&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shah-zaib-ali&show_icons=true&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AsfandAhmad&layout=compact&theme=dark&title_color=EF4444&text_color=FCA5A5&bg_color=0a0000" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shah-zaib-ali&layout=compact&theme=dark&title_color=EF4444&text_color=FCA5A5&bg_color=0a0000" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsfandAhmad&theme=dark&ring=EF4444&fire=FF6B00&currStreakLabel=FF6B00&background=0a0000&sideLabels=FCA5A5&dates=FCA5A5&sideNums=EF4444&currStreakNum=B91C1C&border=7B0000" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shah-zaib-ali&theme=dark&ring=EF4444&fire=FF6B00&currStreakLabel=FF6B00&background=0a0000&sideLabels=FCA5A5&dates=FCA5A5&sideNums=EF4444&currStreakNum=B91C1C&border=7B0000" alt="GitHub Streak"/>
 </p>
 
 ---
