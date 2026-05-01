@@ -122,19 +122,7 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shah-zaib-ali&show_icons=true&theme=dark&title_color=EF4444&icon_color=FF6B00&text_color=FCA5A5&bg_color=0a0000" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shah-zaib-ali&layout=compact&theme=dark&title_color=EF4444&text_color=FCA5A5&bg_color=0a0000" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shah-zaib-ali&theme=dark&ring=EF4444&fire=FF6B00&currStreakLabel=FF6B00&background=0a0000&sideLabels=FCA5A5&dates=FCA5A5&sideNums=EF4444&currStreakNum=B91C1C&border=7B0000" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📌 Featured Projects
 
