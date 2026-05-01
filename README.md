@@ -100,51 +100,6 @@ I believe in continuous learning, clean architecture, and shipping things that a
 
 ---
 
-## 🌐 Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shahzaibaly" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a0000?style=for-the-badge&logo=linkedin&logoColor=EF4444"/>
-  </a>
-  <a href="https://github.com/shah-zaib-ali">
-    <img src="https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=EF4444"/>
-  </a>
-  <a href="https://leetcode.com/u/shahzaibofficial1108/">
-    <img src="https://img.shields.io/badge/LeetCode-1a0000?style=for-the-badge&logo=leetcode&logoColor=EF4444"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-1a0000?style=for-the-badge&logo=vercel&logoColor=EF4444"/>
-  </a>
-  <a href="mailto:shahzaibofficial1108@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a0000?style=for-the-badge&logo=gmail&logoColor=EF4444"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
-
-
-## 🤝 Open To
-
-- 🔥 **Software engineering internships** and junior developer roles
-- 🤖 **AI/ML projects** and research collaborations
-- 🧪 **Hackathons** and collaborative product builds
-- 🌱 **Open-source** contributions and community work
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahzaibaly">
-    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-B91C1C?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-Vercel-B91C1C?style=flat-square&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B0000,35:B91C1C,70:EF4444,100:FF6B00&height=130&section=footer"/>
 ## 🛠️ Tech Stack
 
 ### 🖥️ Languages
@@ -182,6 +137,32 @@ I believe in continuous learning, clean architecture, and shipping things that a
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+
+
+
+## 🤝 Open To
+
+- 🔥 **Software engineering internships** and junior developer roles
+- 🤖 **AI/ML projects** and research collaborations
+- 🧪 **Hackathons** and collaborative product builds
+- 🌱 **Open-source** contributions and community work
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:7B0000,100:1a0000&height=4&section=header"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahzaibaly">
+    <img src="https://img.shields.io/badge/Let's_Connect-LinkedIn-B91C1C?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-Vercel-B91C1C?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B0000,35:B91C1C,70:EF4444,100:FF6B00&height=130&section=footer"/>
+
 
 ---
 
